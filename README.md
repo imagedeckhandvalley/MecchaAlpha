@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="MECCHA CHAMELEON" width="920">
+<img src="https://github.com/user-attachments/assets/2bc82969-5bb1-43b5-8025-60fb4dfb180e" alt="MECCHA CHAMELEON" width="920">
 
 <br>
+
+
 
 # MECCHA CHAMELEON TRAINER
 
